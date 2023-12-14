@@ -1,0 +1,47 @@
+{
+  "Students": [
+    {
+      "id": 1,
+      "Name": "Kashi",
+      "Class": "3",
+      "Section": "E"
+    },
+    {
+      "Name": "Farooq",
+      "Class": "3",
+      "Section": "B",
+      "id": 2
+    }
+  ],
+  "Classes": [
+    {
+      "ID": 4,
+      "Name": "Class A",
+      "Description": "Description for Class A"
+    },
+    {
+      "ID": 5,
+      "Name": "Class B",
+      "Description": "Description for Class B"
+    },
+    {
+      "ID": 6,
+      "Name": "Class C",
+      "Description": "Description for Class C"
+    }
+  ],
+  "Sections": [
+    {
+      "ID": 7,
+      "Name": "Section X"
+    },
+    {
+      "ID": 8,
+      "Name": "Section Y"
+    },
+    {
+      "ID": 9,
+      "Name": "Section Z"
+    }
+  ]
+}
